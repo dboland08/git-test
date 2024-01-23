@@ -1,0 +1,4 @@
+goto
+
+https://remotehost.ddns.net/Downloads/minecraft.1.5.2.zip
+
