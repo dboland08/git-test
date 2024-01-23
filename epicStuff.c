@@ -2,15 +2,15 @@
 
 int main()
 {
-    if (1 > 0)
-    {
-        printf("How ");
-        goto LABEL;
-    }
-    else
+    if (0)
     {
         LABEL:
         printf("Did ");
+    }
+    else
+    {
+        printf("How ");
+        goto LABEL;
     }
 
     printf("we get here?");
